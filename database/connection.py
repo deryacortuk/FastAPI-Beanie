@@ -7,7 +7,7 @@ from models import books, users
 # MONGO_HOST = "127.0.0.1"
 # MONGO_USER = "beanie"
 # MONGO_PASS = 'beanie'
-# MONGO_DB = "beanie_db"
+# MONGO_DB = "Beanie"
 
 class Settings(BaseSettings):
     # DATABASE_URL= f"mongodb://{MONGO_USER}:{MONGO_PASS}@{MONGO_HOST}:27017/{MONGO_DB}"
